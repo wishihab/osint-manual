@@ -7,6 +7,8 @@ for my documentation
 3. https://raidforums.com/ -> download databreach / vulnerability for detail
 4. https://darktracer.com/ -> tracing realtime breach/leaked
 5. https://www.shodan.io/ -> leaked system
+6. https://archive.org/web/ -> snapshot web system
+7. https://github.com/laramies/theHarvester -> information gathering
 
 # Profiling some target / urself?
 
