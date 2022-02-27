@@ -1,6 +1,6 @@
 # osint-manual references
 
-for my documentation or check https://osintframework.com/
+for my documentation.
 
 1. https://haveibeenpwned.com/ -> are u/target victim of databreach? 
 2. https://dehashed.com/ -> finding leaked data - simple and easy to use
@@ -9,6 +9,7 @@ for my documentation or check https://osintframework.com/
 5. https://www.shodan.io/ -> leaked system
 6. https://archive.org/web/ -> snapshot web system
 7. https://github.com/laramies/theHarvester -> information gathering
+8. https://osintframework.com/ -> online framework
 
 # Profiling target / urself?
 
