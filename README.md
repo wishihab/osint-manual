@@ -10,6 +10,6 @@ for my documentation or check https://osintframework.com/
 6. https://archive.org/web/ -> snapshot web system
 7. https://github.com/laramies/theHarvester -> information gathering
 
-# Profiling some target / urself?
+# Profiling target / urself?
 
 # Do something?
