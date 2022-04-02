@@ -14,3 +14,16 @@ for my documentation.
 # Profiling target / urself?
 
 # Do something?
+
+# geOSINT
+1. https://satellites.pro/
+2. https://mc.bbbike.org/mc/
+3. https://www.marinetraffic.com/
+4. https://www.flightradar24.com/
+5. https://firms.modaps.eosdis.nasa.gov/map/
+6. https://globe.adsbexchange.com/
+
+
+# geOSINT challange
+1. https://www.geoguessr.com/
+
