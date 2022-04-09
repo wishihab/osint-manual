@@ -15,6 +15,11 @@ for my documentation.
 
 # Do something?
 
+# peekDomain
+1. https://crt.sh/
+2. https://lookup.icann.org/
+3. https://osint.sh/
+
 # geOSINT
 1. https://satellites.pro/
 2. https://mc.bbbike.org/mc/
