@@ -28,6 +28,7 @@ for my documentation.
 4. https://www.flightradar24.com/
 5. https://firms.modaps.eosdis.nasa.gov/map/
 6. https://globe.adsbexchange.com/
+7. https://yandex.com/images/ search by image (or other search engine like google,bing etc)
 
 
 # geOSINT challange
