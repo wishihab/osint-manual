@@ -4,7 +4,7 @@ for education purpose only.
 
 1. https://haveibeenpwned.com/ -> are u target/victim of databreach? 
 2. https://dehashed.com/ https://pentester.com/ https://www.predictasearch.com/  (recommended) -> finding leaked data - simple and easy to use
-3. https://breachforums.st/ -> download databreach / vulnerability for detail
+3. https://breachforums.hn/ -> download databreach / vulnerability for detail
 4. https://whatsmyname.app/ https://github.com/sherlock-project/sherlock -> username checker
 5. https://www.stealthmole.com/ -> tracing realtime breach/leaked
 6. https://www.shodan.io/ -> leaked system
